@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include "src/utils.h"
+#include "main.h"
 
 int main(int argc, char *argv[]) {
   int a = 3;
